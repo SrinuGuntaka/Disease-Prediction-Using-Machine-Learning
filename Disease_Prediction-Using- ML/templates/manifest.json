@@ -1,0 +1,9 @@
+{
+    
+        "short_name":"Disease Prediction",
+        "name":"Disease Prediction",
+        "icons":[],
+        "display":"standalone",
+        "orientation":"portrait"
+    
+}
